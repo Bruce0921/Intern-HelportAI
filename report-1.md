@@ -12,16 +12,19 @@ During the shadowing period at Helport AI, my primary focus was on reacquainting
   - Engaged in learning and understanding the key aspects of our platform, products, services, and competitive advantages.
 - **Lendsure Timeline Enhancement:**
   - Worked on enhancing the visual presentation and functionality of the Lendsure timeline.
+  - ![Timeline](WechatIMG21.jpg)
 - **Creation of Lucia Capital Knowledge Base Queries:**
   - Created and organized a knowledge base for Lucia Capital to address common queries. [View Details](https://docs.google.com/spreadsheets/d/1Nv2DGt-lIK9tbxEEBYCzT_tTbU0lkIXY/edit?usp=sharing&ouid=109964872113147554006&rtpof=true&sd=true)
 - **Adjustment of Knowledge Base and Speech Navigation for Lola:**
   - Assisted in refining Lola's knowledge base and enhancing speech navigation capabilities.
+  - ![Work with the platform](WechatIMG87.jpg)
 - **Partial Hotline Text Translation:**
   - Translated key documents and texts for the hotline to support non-English speaking clients. [View Details](https://docs.google.com/spreadsheets/d/1jNcUx2kluEMywK6M-e-SSPwAzDmjj_8TfGIVm56A_f8/edit?usp=sharing)
 - **Lensure Corporation Research:**
   - Conducted comprehensive research on Lensure Corporation.
 - **Optimization and Categorization of Lensure Knowledge Base:**
   - Optimized and categorized the knowledge base to improve usability and efficiency.
+  - ![Categorical adjustments](WechatIMG395.png)
 
 ## Time Commitment
 - **Availability:** I am available to work 20-25 hours each week, specifically on Mondays, Wednesdays, and Fridays, ensuring consistent engagement with the team and projects.
